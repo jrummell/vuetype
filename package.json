@@ -50,15 +50,15 @@
     "rimraf": "^2.6.2",
     "tslint": "^5.9.1",
     "tslint-config-ktsn": "^2.1.0",
-    "vue": "^2.5.13",
-    "vue-class-component": "^6.1.2"
+    "vue": "^2.6.12",
+    "vue-class-component": "^7.2.3"
   },
   "dependencies": {
     "chalk": "^2.3.0",
     "chokidar": "^2.0.0",
     "commander": "^2.13.0",
     "glob": "^7.1.2",
-    "typescript": "2.7.1",
+    "typescript": "^3.9.4",
     "vue-template-compiler": "^2.5.13"
   }
 }
